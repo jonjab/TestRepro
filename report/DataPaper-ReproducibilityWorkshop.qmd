@@ -1,6 +1,6 @@
 ---
-title: "Data Article: Trier social stress test and food-choice: Behavioral, self-report & hormonal data"
-author: "Felix Jan Nitsch; Manuela Sellitto; Tobias Kalenscher"
+title: "Data Article: Jon Jabls Fork of Trier social stress test and food-choice: Behavioral, self-report & hormonal data"
+author: "Felix Jan Nitsch; Manuela Sellitto; Tobias Kalensche; Jon Jablonski"
 format: html
 editor: visual
 bibliography: references.bib
